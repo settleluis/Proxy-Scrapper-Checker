@@ -1,0 +1,46 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / virtualenvs
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs / output
+*.log
+*.tmp
+*.bak
+
+# OS / system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files
+data/working_proxies.txt
+data/proxies.txt
+
+# Test results
+*.coverage
+htmlcov/
+.coverage.*
+.cache/
+
+# Python test output
+pytest_cache/
+*.pytest_cache/
+
+# Build / dist
+build/
+dist/
+*.egg-info/

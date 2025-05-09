@@ -1,0 +1,4 @@
+rich
+aiohttp
+beautifulsoup4
+requests
